@@ -1,31 +1,33 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+
+owner: 12tae12
+repo: status
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Main Website
+    url: https://www.e4t.top
+  - name: Topshort
+    url: https://e4t.top/topshort
+  - name: Short Link Redirect
+    url: https://e4t.top/l
+  - name: Matrix
+    url: https://matrix.e4t.top
+  - name: Jellyfin
+    url: https://jellyfin.e4t.top
+  - name: 4get
+    url: https://4get.e4t.top
+  - name: Nextcloud
+    url: https://nextcloud.e4t.top
+  - name: Telemetry
+    url: https://telemetry.e4t.top
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
+  cname: status.e4t.top
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  name: tae's status
+  introTitle: "**Service Status**"
+  introMessage: "Live uptime and incident history for my services."
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
