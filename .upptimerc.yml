@@ -7,8 +7,6 @@ sites:
     url: https://www.e4t.top
   - name: Topshort
     url: https://e4t.top/topshort
-  - name: Short Link Redirect
-    url: https://e4t.top/l
   - name: Matrix
     url: https://matrix.e4t.top
   - name: Jellyfin
