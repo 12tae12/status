@@ -19,7 +19,7 @@ sites:
     url: https://telemetry.e4t.top
 
 status-website:
-  baseUrl: /repo
+  cname: status.e4t.top
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: 12tae12 status
   introTitle: "**Service Status**"
