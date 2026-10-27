@@ -23,7 +23,7 @@ sites:
 status-website:
   cname: status.e4t.top
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: tae's status
+  name: 12tae12 status
   introTitle: "**Service Status**"
   introMessage: "Live uptime and incident history for my services."
   navbar:
