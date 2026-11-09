@@ -4,9 +4,9 @@
     "url": "https://www.e4t.top",
     "icon": "https://icons.duckduckgo.com/ip3/www.e4t.top.ico",
     "slug": "main-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 543,
     "timeMonth": 605,
     "timeYear": 605,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-09": 0
+    }
   },
   {
     "name": "Topshort",
