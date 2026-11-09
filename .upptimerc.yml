@@ -4,7 +4,7 @@ repo: status
 
 sites:
   - name: Main Website
-    url: https://www.e4t.top
+    url: https://e4t.top
   - name: Topshort
     url: https://e4t.top/topshort
   - name: Matrix
