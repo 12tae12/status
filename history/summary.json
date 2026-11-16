@@ -58,18 +58,20 @@
     "url": "https://jellyfin.e4t.top",
     "icon": "https://icons.duckduckgo.com/ip3/jellyfin.e4t.top.ico",
     "slug": "jellyfin",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 721,
-    "timeDay": 1028,
-    "timeWeek": 1061,
-    "timeMonth": 721,
-    "timeYear": 721,
-    "dailyMinutesDown": {}
+    "time": 712,
+    "timeDay": 759,
+    "timeWeek": 997,
+    "timeMonth": 712,
+    "timeYear": 712,
+    "dailyMinutesDown": {
+      "2026-11-16": 0
+    }
   },
   {
     "name": "4get",
